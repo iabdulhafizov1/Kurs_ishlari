@@ -1,0 +1,16 @@
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\bin\Debug\Elektron_Ovoz_Berish.exe.config
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\bin\Debug\Elektron_Ovoz_Berish.exe
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\bin\Debug\Elektron_Ovoz_Berish.pdb
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.csprojResolveAssemblyReference.cache
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.exe
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.pdb
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.csproj.GenerateResource.Cache
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.MainForm.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.HududForm.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.KirishForm.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\bin\Debug\Telegram.Bot.dll
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.HisobForm.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.RoyxatdanOtishForm.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.AdminForm.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.AdminForm2.resources
+C:\Users\os\Documents\SharpDevelop Projects\Elektron_Ovoz_Berish\Elektron_Ovoz_Berish\obj\Debug\Elektron_Ovoz_Berish.AdminForm3.resources
